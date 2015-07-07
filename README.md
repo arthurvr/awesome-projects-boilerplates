@@ -53,7 +53,7 @@ Android Guide.
 *Boilerplates, templates and projects for Javascript*
 - [Boilerplate JS](#boilerplate-js)
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
-    - [fafafa](https://github.com/fordaaronj/fafafa) Angular / Flask / Foundation Boilerplate.
+    - [fafafa](https://github.com/fordaaronj/fafafa)Angular / Flask / Foundation Boilerplate.
     - [Backbone Boilerplate](https://github.com/backbone-boilerplate/generator-bbb) Yeoman generator for Backbone.
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
@@ -129,7 +129,7 @@ Android Guide.
 *Boilerplates, templates and projects for Websites*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
 - [Meteor boilerplate](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
-- [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by google.
+- [Web Starter Kit](https://github.com/google/web-starter-kit) Web starter kit by Google.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 - [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates
 - [OSWD](http://www.oswd.org/)Platform for sharing standards-compliant free web design templates
